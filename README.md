@@ -53,7 +53,7 @@ Steps
 
 Clone or download this repository.
 
-git clone https://github.com/DivineGankui/electricity-billing-system.git
+git clone https://github.com/DivineGankui/ebill.git
 
 
 Move the project folder to your server’s root directory:
